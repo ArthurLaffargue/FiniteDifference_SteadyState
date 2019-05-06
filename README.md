@@ -1,4 +1,5 @@
 # FiniteDifference_SteadyState
+# Méthode des différences finies - Régime stationnaire
 Article : Méthode des différences finies en régime stationnaire pour l'ingénieur
 
 Les scripts qui ont servi d'exemples à l'article sur les différences finies 
